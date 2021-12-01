@@ -1,0 +1,75 @@
+{
+  "appInfo" : {
+    "build" : "211.7142.13",
+    "buildDate" : "2021-04-21T08:35:09.907Z[UTC]",
+    "productCode" : "PC",
+    "generated" : "2021-12-01T19:56:25.220883Z",
+    "os" : "macOS 10.16",
+    "runtime" : "JetBrains s.r.o. 11.0.10 11.0.10+9-b1341.41"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "all_repos_code_scripts",
+    "times" : {
+      "totalUpdatingTime" : 1000929000,
+      "indexingTime" : 0,
+      "scanFilesTime" : 762936000,
+      "pushPropertiesTime" : 1585000,
+      "indexExtensionsTime" : 0,
+      "updatingStart" : "2021-12-01T19:56:24.215777Z",
+      "updatingEnd" : "2021-12-01T19:56:25.216706Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "totalStatsPerFileType" : [ ],
+    "totalStatsPerIndexer" : [ ],
+    "scanningStatistics" : [ {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@473cf3ab",
+      "numberOfScannedFiles" : 213,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 669852032,
+      "timeProcessingUpToDateFiles" : 13730517,
+      "timeUpdatingContentLessIndexes" : 4278948,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.javaee.ExternalResourcesRootsProvider@473cf3ab",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@5612a8de",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    }, {
+      "providerName" : "com.intellij.ide.scratch.ScratchesAndConsolesIndexSetContributor@5612a8de",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0
+    } ],
+    "fileProviderStatistics" : [ ]
+  }
+}
